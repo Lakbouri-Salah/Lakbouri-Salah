@@ -17,7 +17,7 @@ Feel free to reach out if you want to collaborate or discuss interesting backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-rgb(19,27,40)?style=for-the-badge&logo=JavaScript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-rgb(19,27,40)?style=for-the-badge&logo=TailwindCSS)
 ![Vue.js](https://img.shields.io/badge/Vue.js-rgb(19,27,40)?style=for-the-badge&logo=Vue.js)
-![Nuxt.js]<img src="/images/Nuxt.png"></img>
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-rgb(19,27,40)?style=for-the-badge&logo=Nuxt.js)
 ![GSAP](https://img.shields.io/badge/GSAP-rgb(19,27,40)?style=for-the-badge&logo=greensock)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-rgb(19,27,40)?style=for-the-badge&logo=Alpine.js)
 ![Node.js](https://img.shields.io/badge/Node.js-rgb(19,27,40)?style=for-the-badge&logo=Node.js)
