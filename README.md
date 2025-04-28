@@ -1,9 +1,8 @@
 # Hi there 👋
 
 I am a Web Developer focused on backend development.  
-I enjoy building custom WordPress plugins, WPGraphQL extensions, API integrations, and scalable web solutions.  
-Feel free to reach out if you want to collaborate or discuss interesting backend projects! 🚀
-
+I enjoy building custom WordPress plugins, WPGraphQL extensions, API integrations, and scalable web solutions.
+Always learning
 ---
 
 ### 🛠️ Technologies I work with:
